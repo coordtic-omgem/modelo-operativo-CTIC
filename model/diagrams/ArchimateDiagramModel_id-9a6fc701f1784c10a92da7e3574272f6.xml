@@ -81,4 +81,16 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-232a64c75a584e27b15d16f944a68c71.xml#id-232a64c75a584e27b15d16f944a68c71"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ea85b57feb0f4b8a824eff3bb9fb55c2">
+    <bounds
+        x="759"
+        y="474"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Product"
+        href="Product_id-8facba7af52b41b78fa1b00302d9230d.xml#id-8facba7af52b41b78fa1b00302d9230d"/>
+  </children>
 </archimate:ArchimateDiagramModel>

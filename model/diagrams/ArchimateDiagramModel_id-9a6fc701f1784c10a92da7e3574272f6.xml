@@ -60,7 +60,7 @@
       id="id-51ea56e86459473ea9104637fe49fad1"
       targetConnections="id-4009aef1bd7042c0821f3e9dad319054">
     <bounds
-        x="312"
+        x="540"
         y="324"
         width="133"
         height="55"/>
@@ -73,7 +73,7 @@
       id="id-267fe866ce4043e5833cd0ab66324679"
       targetConnections="id-2c9fc74503504601a97b9d3c654c9b51">
     <bounds
-        x="540"
+        x="303"
         y="324"
         width="120"
         height="55"/>
